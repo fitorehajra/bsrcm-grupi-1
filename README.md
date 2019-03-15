@@ -1,2 +1,2 @@
-# bsrcm-grupi-1
+# bsrcm grupi 1
 First task on Github
